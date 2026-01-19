@@ -1,0 +1,9 @@
+{
+  "name": "ai-fortune",
+  "entry": "./dist/index.html",
+  "buildCommand": "npm run build",
+  "assets": {
+    "directory": "./dist",
+    "notFoundStrategy": "singlePageApplication"
+  }
+}

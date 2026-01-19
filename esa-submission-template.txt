@@ -1,10 +1,10 @@
 作品名称：灵象 AI 算命馆 - AIGC 运势解读应用
 
 作品访问 URL（在 ESA Pages 上部署完成后的访问地址）：
-例如：https://your-ai-fortune.pages.esa.aliyun.com
+https://ai-fortune.2b7c6ce6.er.aliyun-esa.net
 
 Github 仓库地址（需为公开仓库）：
-例如：https://github.com/your-name/ai-fortune-esa
+https://github.com/xiaobing2/ai-fortune
 
 作品说明（可直接复制到天池提交结果处使用，可按需微调）：
 
